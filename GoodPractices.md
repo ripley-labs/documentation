@@ -1,6 +1,7 @@
 # Do not store secrets in GIT
 
 Do not commit an API key, user/password, tokens, or hardcoded private URLs.
+Load secrets through **environment variables** or mount a file ignored by git (.gitignore).
 
 # How to versioning an application
 
