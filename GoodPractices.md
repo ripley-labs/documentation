@@ -2,7 +2,7 @@
 
 Do not commit an API key, user/password, tokens, or hardcoded private URLs.
 
-# How to versioning an app
+# How to versioning an application
 
 Use version standards from [SemVer](https://semver.org/)
 
