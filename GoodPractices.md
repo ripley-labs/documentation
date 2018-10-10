@@ -9,6 +9,14 @@ If a external secret is requiered to run an application, mention that the README
 
 Use version standards from [SemVer](https://semver.org/).
 
+# Lint your code
+
+Add a linter to your applications. Add a lint command in your CI/CD test jobs.
+
+Suggested linters:
+*  [ESLint for Javascript](https://eslint.org/)
+*  [Pylint for Python](https://www.pylint.org/)
+
 # Time treatment
 
 It is suggested to **store all the dates and times in UTC** at backend level, and then transform to the time zone only when displaying the date when necessary (for example in a frontend application).
