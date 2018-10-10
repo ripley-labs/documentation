@@ -1,11 +1,13 @@
 # Do not store secrets in GIT
 
 Do not commit an API key, user/password, tokens, or hardcoded private URLs.
-Load secrets through **environment variables** or mount a file ignored by git (.gitignore).
+Load secrets through **environment variables** or mount a file (for example, with docker volumes), put a secret file outside repository or add a secret file to ignored your .gitignore.
+
+If a external secret is requiered to run an application, mention that the README.md of the application.
 
 # How to versioning an application
 
-Use version standards from [SemVer](https://semver.org/)
+Use version standards from [SemVer](https://semver.org/).
 
 # Time treatment
 
