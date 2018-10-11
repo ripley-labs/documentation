@@ -1,3 +1,9 @@
 # Ripley Labs Developers
 
-See our [Good Practices](GoodPractices.md)
+## Good Practices for Coding
+
+See our suggested [Coding Good Practices](CodingGoodPractices.md)
+
+## Study Material
+
+See our suggested [Study Material](StudyMaterial.md)
