@@ -17,8 +17,9 @@
 # Communities / Events (Chile)
 
 * [Cloud Managers para la Transformación Digital](https://www.meetup.com/es-ES/Cloud-Managers-para-la-Transformacion-Digital/)
-* [DevsChile](https://devschile.cl/) [BeerJS CL](https://www.beerjs.cl/)
+* [DevsChile](https://devschile.cl/) / [BeerJS CL](https://www.beerjs.cl/)
 * [Google Developers Group Santiago](https://www.meetup.com/es-ES/gdg-chile/)
+* [iOSLove](https://www.meetup.com/es-ES/iOSLove/)
 * [NodersJS](https://www.meetup.com/es-ES/NodersJS/)
 * [Software Crafters Chile](https://www.meetup.com/es-ES/Software-Crafters-Chile/)
 
