@@ -1,4 +1,31 @@
-# Do not store secrets in GIT
+# Version Control System
+
+We use git.
+
+## Git Flow and branching strategy
+
+Git flow is a set of extensions for git at CLI and GUI for branching strategy.
+
+See [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) and [Gitflow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+Smartgit (GUI git client) has built-in support
+
+
+For terminal, install git-flow in:
+
+Debian/Ubuntu:
+
+```
+sudo apt install git-flow
+```
+
+MacOS:
+```
+brew install git-flow
+``` 
+
+
+## Do not store secrets in GIT
 
 Do not commit an API key, user/password, tokens, or hardcoded private URLs.
 Load secrets through **environment variables** or mount a file (for example, with docker volumes), put a secret file outside repository or add a secret file to ignored your .gitignore.
