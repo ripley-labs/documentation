@@ -28,7 +28,9 @@
 * [Youtube Channel: CoreDevX](https://www.youtube.com/channel/UCFUrYLy6MDa9BrQJs3h-K0g)
 * [Youtube Channel: NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow)
 
-# Communities / Events (Chile)
+# Events (Chile)
+
+## Communities
 
 * [Cloud Managers para la Transformación Digital](https://www.meetup.com/es-ES/Cloud-Managers-para-la-Transformacion-Digital/)
 * [DevsChile](https://devschile.cl/) / [BeerJS CL](https://www.beerjs.cl/)
