@@ -5,7 +5,7 @@
 * [The Twelve Factor](https://12factor.net/)
 * [The truth about microservices](https://codeburst.io/the-truth-about-microservices-8f8124913df4)
 
-## Javascript
+## Javascript
 
 * [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 
