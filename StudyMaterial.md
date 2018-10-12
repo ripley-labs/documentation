@@ -35,6 +35,7 @@
 * [Google Developers Group Santiago](https://www.meetup.com/es-ES/gdg-chile/)
 * [iOSLove](https://www.meetup.com/es-ES/iOSLove/)
 * [NodersJS](https://www.meetup.com/es-ES/NodersJS/)
+* [Santiago Machine Learning](https://www.meetup.com/es-ES/Santiago-Machine-Learning-Meetup/)
 * [Software Crafters Chile](https://www.meetup.com/es-ES/Software-Crafters-Chile/)
 
 ## Companies
