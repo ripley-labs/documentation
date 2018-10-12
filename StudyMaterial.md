@@ -8,6 +8,15 @@
 ## Javascript
 
 * [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+
+## Docker
+
+* [Running a Docker container as a non-root user](https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e00f8ee15)
+
+## Kubernetes
+
+* [An illustrated guide to Kubernetes Networking [Part 1]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
 
 # Talks
 
