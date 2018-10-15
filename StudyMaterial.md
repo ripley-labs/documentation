@@ -36,6 +36,7 @@
 * [DevsChile](https://devschile.cl/) / [BeerJS CL](https://www.beerjs.cl/)
 * [Google Developers Group Santiago](https://www.meetup.com/es-ES/gdg-chile/)
 * [Grupo de Usuarios de R en Chile](https://www.meetup.com/es-ES/useRchile/)
+* [Inteligencia Artificial Chile](https://www.meetup.com/es-ES/Inteligencia-Artificial-Chile/)
 * [iOSLove](https://www.meetup.com/es-ES/iOSLove/)
 * [Java Users Group Chile](https://www.meetup.com/es-ES/jug-chile/)
 * [NodersJS](https://www.meetup.com/es-ES/NodersJS/)
