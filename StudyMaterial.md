@@ -39,6 +39,7 @@
 * [iOSLove](https://www.meetup.com/es-ES/iOSLove/)
 * [Java Users Group Chile](https://www.meetup.com/es-ES/jug-chile/)
 * [NodersJS](https://www.meetup.com/es-ES/NodersJS/)
+* [Programadores e Informáticos en Chile](https://www.meetup.com/es-ES/ProinChile/)
 * [Santiago Machine Learning](https://www.meetup.com/es-ES/Santiago-Machine-Learning-Meetup/)
 * [Software Crafters Chile](https://www.meetup.com/es-ES/Software-Crafters-Chile/)
 
