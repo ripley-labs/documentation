@@ -2,6 +2,12 @@
 
 We use git.
 
+## Use SSH key pairs instead of user/password over http
+
+To generate your keys use the following guide provided by github:
+
+https://help.github.com/enterprise/2.14/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
 ## Git Flow and branching strategy
 
 Git flow is a set of extensions for git at CLI and GUI for branching strategy.
