@@ -38,6 +38,14 @@ Load secrets through **environment variables** or mount a file (for example, wit
 
 If a external secret is requiered to run an application, mention that the README.md of the application.
 
+# Deterministic dependencies
+
+Always prefere use a deterministic package manager, use something like lock-files. For example (in nodejs ecosystem), **yarn** and modern **npm** have lock-files.
+
+In Docker, always set version tag of your base images.
+
+Update your dependencies manually, and then test. Finally deploy.
+
 # How to versioning an application
 
 Use version standards from [SemVer](https://semver.org/).
