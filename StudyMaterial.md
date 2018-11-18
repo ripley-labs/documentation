@@ -19,6 +19,9 @@
 * [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 * [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 
+## Python
+* [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
+
 ## Docker
 
 * [Running a Docker container as a non-root user](https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e00f8ee15)
