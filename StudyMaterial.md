@@ -1,10 +1,14 @@
 # Reads
 
+## Agile
+* [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
 ## Microservices
 
 * [The Twelve Factor](https://12factor.net/)
 * [The truth about microservices](https://codeburst.io/the-truth-about-microservices-8f8124913df4)
 * [What are microservices?](https://microservices.io/)
+* [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
 ## Algoritmhs
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
