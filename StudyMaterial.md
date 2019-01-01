@@ -41,6 +41,7 @@
 
 * [Youtube Channel: CoreDevX](https://www.youtube.com/channel/UCFUrYLy6MDa9BrQJs3h-K0g)
 * [Youtube Channel: NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow)
+* [Youtube Channel: Multicaja Developers](https://www.youtube.com/channel/UCTnRTIOuwlLEhNZ0o5p0-ug)
 
 # Events (Chile)
 
