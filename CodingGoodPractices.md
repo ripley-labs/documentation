@@ -30,7 +30,6 @@ MacOS:
 brew install git-flow
 ``` 
 
-
 ## Do not store secrets in GIT
 
 Do not commit an API key, user/password, tokens, or hardcoded private URLs.
@@ -61,3 +60,7 @@ Suggested linters:
 # Time treatment
 
 It is suggested to **store all the dates and times in UTC** at backend level, and then transform to the time zone only when displaying the date when necessary (for example in a frontend application).
+
+# REST API versioning
+
+https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9
