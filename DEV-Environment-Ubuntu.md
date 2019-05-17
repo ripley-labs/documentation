@@ -56,6 +56,7 @@ sudo apt install -y yarn
 ```
 sudo snap install hyper insomnia postman rambox robo3t-snap
 sudo snap install sublime-text --classic
+sudo snap install skype --classic
 ```
 
 # Install typography for coding
@@ -73,6 +74,12 @@ curl -L http://get.oh-my.fish | fish
 chsh -s $(which fish)
 fish
 omf install zish
+```
+
+# Hyper
+```
+hyper i hyper-solarized-dark
+hyper i hyper-pane
 ```
 
 # Visual Studio Code (extensions)
