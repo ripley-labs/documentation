@@ -54,7 +54,7 @@ sudo apt install -y yarn
 # Install snap apps
 
 ```
-sudo snap install hyper insomnia postman rambox robo3t-snap
+sudo snap install insomnia postman rambox robo3t-snap
 sudo snap install code --classic
 sudo snap install sublime-text --classic
 sudo snap install skype --classic
