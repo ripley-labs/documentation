@@ -9,13 +9,13 @@ sudo apt install -y curl fish git htop net-tools nmap pv vim
 sudo apt install -y guake vim-gtk3
 
 # Visual Studio Code
-curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
-sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
-sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
+# curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+# sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+# sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
 
-sudo apt update
+#sudo apt update
 
-sudo apt install -y code
+#sudo apt install -y code
 
 # Google Chrome
 wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
@@ -55,6 +55,7 @@ sudo apt install -y yarn
 
 ```
 sudo snap install hyper insomnia postman rambox robo3t-snap
+sudo snap install code --classic
 sudo snap install sublime-text --classic
 sudo snap install skype --classic
 ```
@@ -77,8 +78,21 @@ omf install zish
 ```
 
 # Hyper
+Install Hyper as terminal emulator
+
+Download from https://hyper.is/#installation
+
+Then install following themes + plugins:
+
 ```
-hyper i hyper-solarized-dark
+hyper i hyper-solarized-dark2
+hyper i hypercwd
+hyper i hyper-dark-scrollbar
+hyper i hyper-search
+hyper i hyper-highlight-active-pane
+hyper i hyperborder
+hyper i hyperlinks
+hyper i hyper-savetext
 hyper i hyper-pane
 ```
 
