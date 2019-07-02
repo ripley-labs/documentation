@@ -99,27 +99,24 @@ hyper i hyper-pane
 # Visual Studio Code (extensions)
 
 ```
-code --install-extension 2gua.rainbow-brackets 
-code --install-extension EditorConfig.EditorConfig
-code --install-extension Equinusocio.vsc-material-theme
-code --install-extension PKief.material-icon-theme
-code --install-extension PeterJausovec.vscode-docker
-#code --install-extension WallabyJs.quokka-vscode
-code --install-extension Zim.vsc-docker
-# code --install-extension dbaeumer.jshint
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension donjayamanne.githistory
-code --install-extension eamodio.gitlens
-code --install-extension eriklynd.json-tools
-code --install-extension felixfbecker.php-debug
-code --install-extension hbenl.vscode-firefox-debug
-code --install-extension lukehoban.Go
-code --install-extension mikestead.dotenv
-code --install-extension ms-python.python
-code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension yzane.markdown-pdf
-code --install-extension yzhang.markdown-all-in-one
-
+code --install-extension 2gua.rainbow-brackets # Rainbow Brackets
+code --install-extension EditorConfig.EditorConfig # Editor Config
+code --install-extension Equinusocio.vsc-material-theme # Material Theme for VSCode
+code --install-extension PKief.material-icon-theme # Material Icon theme
+code --install-extension PeterJausovec.vscode-docker # Docker
+code --install-extension dbaeumer.vscode-eslint # ESLint
+code --install-extension donjayamanne.githistory # Git history
+code --install-extension eamodio.gitlens # Gitlens
+code --install-extension eriklynd.json-tools # JSON Tools
+code --install-extension felixfbecker.php-debug # PHP Debug
+code --install-extension hbenl.vscode-firefox-debug # Firefox Debugger
+code --install-extension lukehoban.Go # Go
+code --install-extension mikestead.dotenv # dotenv
+code --install-extension ms-python.python # Python
+code --install-extension msjsdiag.debugger-for-chrome # Chrome Debugger 
+code --install-extension yzane.markdown-pdf # Markdown to PDF
+code --install-extension yzhang.markdown-all-in-one # Markdown
+code --install-extension esbenp.prettier-vscode  # Prettier
 ```
 
 # React Native
