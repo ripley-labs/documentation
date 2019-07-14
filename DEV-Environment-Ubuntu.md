@@ -102,6 +102,8 @@ hyper i hyper-pane
 # Editor
 code --install-extension 2gua.rainbow-brackets # Rainbow Brackets
 code --install-extension EditorConfig.EditorConfig # Editor Config
+code --install-extension SirTori.indenticator # Indenticator
+
 
 # Theme
 code --install-extension Equinusocio.vsc-material-theme # Material Theme for VSCode
@@ -121,11 +123,15 @@ code --install-extension eamodio.gitlens # Gitlens
 code --install-extension msjsdiag.debugger-for-chrome # Chrome Debugger 
 code --install-extension hbenl.vscode-firefox-debug # Firefox Debugger
 code --install-extension esbenp.prettier-vscode  # Prettier
+code --install-extension humao.rest-client # Rest Client
 
 # Programming Languages
 code --install-extension lukehoban.Go # Go
 code --install-extension felixfbecker.php-debug # PHP Debug
 code --install-extension ms-python.python # Python
+
+# Nodejs / React
+code --install-extension wix.vscode-import-cost
 
 ```
 
