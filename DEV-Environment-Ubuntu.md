@@ -105,7 +105,8 @@ code --install-extension EditorConfig.EditorConfig # Editor Config
 code --install-extension SirTori.indenticator # Indenticator
 
 # Utilities
-code --install-extension  TzachOvadia.todo-list
+code --install-extension TzachOvadia.todo-list
+code --install-extension humao.rest-client
 
 # Theme
 code --install-extension Equinusocio.vsc-material-theme # Material Theme for VSCode
