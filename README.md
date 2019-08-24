@@ -6,15 +6,15 @@ Set up your workspace in: [Ubuntu](DEV-Environment-Ubuntu.md) / [Windows](DEV-En
 See our Docker suggestions: [Docker based development](Docker-based-development.md).
 
 # Study Material
-
 * [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
 
 # Reads
-
 See our [basic development skills requirements and suggestions](StudyMaterial/Basics.md)
 
 ## Agile
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+* More articles about: [Agile software development](StudyMaterial/Agile.md)
+* More Articles about: [Software Engineering](StudyMaterial/SoftwareEngineering.md)
 
 ## Algoritmhs
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
@@ -35,11 +35,19 @@ Cloud, Docker, Kubernetes, Services:
 
 ## Programming Languages
 
+* [See our Programming article selection](StudyMaterial/Programming.md)
+
+
 ### Javascript
 * [See our Javascript article selection](StudyMaterial/Javascript.md)
 
 ### Python
 * [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
+
+
+## Testing
+
+* [See our Testing article selection](StudyMaterial/Testing.md)
 
 
 # Talks
