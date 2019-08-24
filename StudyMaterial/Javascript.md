@@ -5,14 +5,17 @@
 - [How to build and publis ES6 NPM modules today with babel](https://github.com/bookercodes/articles/blob/master/how-to-build-and-publish-es6-npm-modules-today-with-babel.md)
 - [Javascript ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - [Node.js ECMAScript compatibility tables](https://node.green/) | [Node.js ECMAScript compatibility tables](https://github.com/williamkapke/node-compat-table)
+- [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
+- [An Intro to Javascript for Experienced Programmers Who Could Use a Strong Dose of Fundamentals](https://medium.com/better-programming/an-intro-to-javascript-for-experienced-programmers-who-could-use-a-strong-dose-of-fundamentals-31535030616b)
 
 ## Error handling
 - [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
-- [Better error handling in JavaScript
-](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af)
+- [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af)
+- [Handling errors with async/await and promises](https://medium.com/@vcarl/handling-errors-with-async-await-and-promises-cd2fea534f08)
 
 ## EcmaScript 6
-* [Avoiding Babel’s Production Bloat](https://medium.com/@WebReflection/avoiding-babels-production-bloat-d53eea2e1cbf)
+- [Avoiding Babel’s Production Bloat](https://medium.com/@WebReflection/avoiding-babels-production-bloat-d53eea2e1cbf)
+- [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
 
 ## Functional JS
 
@@ -26,6 +29,8 @@
 - [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
 - [Creating a RESTful Web API with Node.js and Express.js from scratch](https://medium.com/@metehansenol/creating-a-restful-web-api-with-node-js-and-express-js-from-scratch-9ba6e21d58b9)
 - [How To Organize Express Controllers For Large Codebases](https://medium.com/free-code-camp/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
+- [Enforcing a single web socket connection per user with Node.js, Socket.IO, and Redis](https://medium.com/hackernoon/enforcing-a-single-web-socket-connection-per-user-with-node-js-socket-io-and-redis-65f9eb57f66a)
+- [How to use events in Node.js the right way](https://medium.com/free-code-camp/using-events-in-node-js-the-right-way-fc50c060f23b)
 
 # React
 
@@ -35,4 +40,5 @@
 # Typescript
 
 - [How to Write Node.js Applications in Typescript](https://medium.com/@freek_mencke/how-to-write-node-js-applications-in-typescript-a54af696f66)
-- [Setup Express with TypeScript in 3 Easy Steps](https://levelup.gitconnected.com/setup-express-with-typescript-in-3-easy-steps-484772062e01?source=email-35a253431393-1557832284301-digest.reader------2-59------------------6fe51025_a310_40b7_b51a_7436372307b8-1)
+- [Setup Express with TypeScript in 3 Easy Steps](https://levelup.gitconnected.com/setup-express-with-typescript-in-3-easy-steps-484772062e01)
+- []
