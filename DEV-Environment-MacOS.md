@@ -48,38 +48,15 @@ chsh -s $(which fish)
 brew install tor connect
 ```
 
+# NodeJS development
+* See our suggested [NodeJS global packages](app-nodejs-globals.md)
 
 # Visual Studio Code (extensions)
+* See our suggested [Visual Studio Code extensions](app-vscode.md)
 
-```
-code-insiders --install-extension 2gua.rainbow-brackets 
-code-insiders --install-extension EditorConfig.EditorConfig
-code-insiders --install-extension Equinusocio.vsc-material-theme
-code-insiders --install-extension PKief.material-icon-theme
-code-insiders --install-extension PeterJausovec.vscode-docker
-# code-insiders --install-extension WallabyJs.quokka-vscode
-code-insiders --install-extension Zim.vsc-docker
-# code-insiders --install-extension dbaeumer.jshint
-code-insiders --install-extension dbaeumer.vscode-eslint
-code-insiders --install-extension donjayamanne.githistory
-code-insiders --install-extension eamodio.gitlens
-code-insiders --install-extension eriklynd.json-tools
-code-insiders --install-extension felixfbecker.php-debug
-code-insiders --install-extension hbenl.vscode-firefox-debug
-code-insiders --install-extension lukehoban.Go
-code-insiders --install-extension mikestead.dotenv
-code-insiders --install-extension ms-python.python
-code-insiders --install-extension msjsdiag.debugger-for-chrome
-code-insiders --install-extension yzane.markdown-pdf
-code-insiders --install-extension yzhang.markdown-all-in-one
-```
+# Google Chrome 
+* See our suggested [Google Chrome extensions](app-googlechrome.md)
 
-
-# NodeJS development
-
-```
-sudo npm install -g concurrently cross-env eslint newman serverless   
-```
 
 # React Native development
 
