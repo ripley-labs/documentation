@@ -19,9 +19,12 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 ## Algoritmhs
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
-## DevOps
+## APIs
 
-Cloud, Docker, Kubernetes:
+* [See our DevOps article selection](StudyMaterial/APIs.md)
+
+## DevOps: Cloud, Docker, Kubernetes
+
 * [See our DevOps article selection](StudyMaterial/DevOps.md)
 
 ## Microservices
