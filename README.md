@@ -11,6 +11,8 @@ See our Docker suggestions: [Docker based development](Docker-based-development.
 
 # Reads
 
+See our [basic development skills requirements and suggestions](StudyMaterial/Basics.md)
+
 ## Agile
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
