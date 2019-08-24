@@ -1,7 +1,7 @@
 # Ripley Labs Coding good Practices
 See our suggested [Coding Good Practices](CodingGoodPractices.md).
 
-Set up your workspace in: [Ubuntu](DEV-Environment-Ubuntu.md) / [Windows](DEV-Environment-Windows.md) / [Ubuntu](DEV-Environment-MacOS.md).
+Set up your workspace in: [Ubuntu](DEV-Environment-Ubuntu.md) / [Windows](DEV-Environment-Windows.md) / [MacOS](DEV-Environment-MacOS.md).
 
 See our Docker suggestions: [Docker based development](Docker-based-development.md).
 
