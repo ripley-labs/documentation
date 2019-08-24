@@ -1,12 +1,10 @@
 # Algorithms
 
-- [How to solve the Knapsack Problem with dynamic programming
-  ](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
-
-- [How to improve your data structures, algorithms, and problem-solving skills
-  ](https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)
-
+- [How to solve the Knapsack Problem with dynamic programming](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
+- [How to improve your data structures, algorithms, and problem-solving skills](https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)
 - [Implementing Quicksort in JavaScript](https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea)
+- [My Favorite Linear-time Sorting Algorithm](https://medium.com/free-code-camp/my-favorite-linear-time-sorting-algorithm-f82f88b5daa1)
+- [Binary data structures: an intro to trees and heaps in JavaScript](https://medium.com/free-code-camp/binary-data-structures-an-intro-to-trees-and-heaps-in-javascript-962ab536cb42)
 
 # Code
 

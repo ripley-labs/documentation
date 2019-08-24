@@ -9,3 +9,5 @@
 - [An introduction to test-driven development with Vue.js](https://medium.com/free-code-camp/an-introduction-to-tdd-with-vue-js-66544710b50c)
 
 - [Test Driven Development in React with Jest and Enzyme](https://medium.com/@rossbulat/test-driven-development-in-react-with-jest-and-enzyme-2a6cf2cc3071)
+
+- [How to correctly mock Moment.js/dates in Jest](https://medium.com/free-code-camp/how-to-correctly-mock-moment-js-dates-in-jest-25fa2528ca11)
