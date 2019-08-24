@@ -1,3 +1,10 @@
+# Algorithms
+
+* [How to solve the Knapsack Problem with dynamic programming
+](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
+
+* [How to improve your data structures, algorithms, and problem-solving skills
+](https://medium.com/@fabianterh/how-to-improve-your-data-structures-algorithms-and-problem-solving-skills-af50971cba60)
 
 # Code
 

@@ -35,6 +35,9 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 * [See our Programming article selection](StudyMaterial/Programming.md)
 
+### Go
+* [See our Go article selection](StudyMaterial/Go.md)
+
 ### Javascript
 * [See our Javascript article selection](StudyMaterial/Javascript.md)
 
