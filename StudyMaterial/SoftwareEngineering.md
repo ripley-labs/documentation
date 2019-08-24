@@ -23,3 +23,5 @@
 * [Why Good Design is Important for Writing Great Code.](https://medium.com/swlh/why-good-design-is-important-for-writing-great-code-4339ef9e8a4c)
 
 * [Docs in Software Development](https://medium.com/planogy/docs-in-software-development-d60ba61a433b)
+
+* [How To Use Technical Debt In Your Favor 🔊](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
