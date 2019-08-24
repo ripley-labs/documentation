@@ -1,11 +1,18 @@
-## DevOps
+# DevOps
+
+# Chaos Engineering
 * [PRINCIPLES OF CHAOS ENGINEERING](https://principlesofchaos.org/)
 
-## Docker
-
+# Docker
 * [Running a Docker container as a non-root user](https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e00f8ee15)
 * [Don’t Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd)
+* [Yet another reason your Docker containers may be slow on EC2: clock_gettime, gettimeofday and seccomp](https://medium.com/appian-engineering/yet-another-reason-your-docker-containers-may-be-slow-on-ec2-clock-gettime-gettimeofday-and-9d92f6892048)
+* [Docker Tips : about /var/run/docker.sock](https://medium.com/better-programming/about-var-run-docker-sock-3bfd276e12fd)
+* [A New, Better Way to Automatically Update Docker Containers](https://medium.com/better-programming/automatically-update-docker-containers-f2ccc79f4313)
 
-## Kubernetes
-
+# Kubernetes
 * [An illustrated guide to Kubernetes Networking [Part 1]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
+* [https://medium.com/faun/eks-vs-ecs-orchestrating-containers-on-aws-9d49d3ff7f8d](https://medium.com/faun/eks-vs-ecs-orchestrating-containers-on-aws-9d49d3ff7f8d)
+* [Kubernetes on AWS: Setup and Lessons Learned](https://medium.com/swlh/kubernetes-on-aws-setup-and-lessons-learned-93f8322bc13a)
+* [Starting local Kubernetes using kind and Docker](https://itnext.io/starting-local-kubernetes-using-kind-and-docker-c6089acfc1c0)
+* [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)

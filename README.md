@@ -21,17 +21,12 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 ## DevOps
 
-Cloud, Docker, Kubernetes, Services:
+Cloud, Docker, Kubernetes:
 * [See our DevOps article selection](StudyMaterial/DevOps.md)
-
 
 ## Microservices
 
-* [The Twelve Factor](https://12factor.net/)
-* [The truth about microservices](https://codeburst.io/the-truth-about-microservices-8f8124913df4)
-* [What are microservices?](https://microservices.io/)
-* [The Reactive Manifesto](https://www.reactivemanifesto.org/)
-
+* [See our Microservices article selection](StudyMaterial/Microservices.md)
 
 ## Programming Languages
 
