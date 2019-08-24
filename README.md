@@ -45,6 +45,7 @@ Cloud, Docker, Kubernetes, Services:
 * [Youtube Channel: CoreDevX](https://www.youtube.com/channel/UCFUrYLy6MDa9BrQJs3h-K0g)
 * [Youtube Channel: NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow)
 * [Youtube Channel: Multicaja Developers](https://www.youtube.com/channel/UCTnRTIOuwlLEhNZ0o5p0-ug)
+* [Como hacer software bien / ¿Cómo manejar equipos de desarrollo de software? - Andres Marinkovic](https://www.youtube.com/watch?v=fIuhK1zr5SM&feature=youtu.be)
 
 # Events (Chile)
 
