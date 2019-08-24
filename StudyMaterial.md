@@ -3,6 +3,16 @@
 ## Agile
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 
+
+## Algoritmhs
+* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+
+## DevOps
+
+Cloud, Docker, Kubernetes, Services:
+* [See our DevOps article selection](StudyMaterial/DevOps.md)
+
+
 ## Microservices
 
 * [The Twelve Factor](https://12factor.net/)
@@ -10,35 +20,15 @@
 * [What are microservices?](https://microservices.io/)
 * [The Reactive Manifesto](https://www.reactivemanifesto.org/)
 
-## DevOps
-* [PRINCIPLES OF CHAOS ENGINEERING](https://principlesofchaos.org/)
 
-## Algoritmhs
-* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+## Programming Languages
 
-## Javascript
+### Javascript
+* [See our Javascript article selection](StudyMaterial/Javascript.md)
 
-* [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
-* [Handling Multiple JavaScript Promises Even if Some Fail](http://adampaxton.com/handling-multiple-javascript-promises-even-if-some-fail/)
-* [How to build and publis ES6 NPM modules today with babel](https://github.com/bookercodes/articles/blob/master/how-to-build-and-publish-es6-npm-modules-today-with-babel.md)
-* [Javascript ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-* [Node.js ECMAScript compatibility tables](https://node.green/) | [Node.js ECMAScript compatibility tables](https://github.com/williamkapke/node-compat-table)
-
-## React
-* [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
-* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-
-## Python
+### Python
 * [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 
-## Docker
-
-* [Running a Docker container as a non-root user](https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e00f8ee15)
-* [Don’t Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd)
-
-## Kubernetes
-
-* [An illustrated guide to Kubernetes Networking [Part 1]](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
 
 # Talks
 
