@@ -44,6 +44,12 @@ Cloud, Docker, Kubernetes, Services:
 ### Python
 * [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 
+
+## Testing
+
+* [See our Testing article selection](StudyMaterial/Testing.md)
+
+
 # Talks
 
 * [Youtube Channel: CoreDevX](https://www.youtube.com/channel/UCFUrYLy6MDa9BrQJs3h-K0g)
