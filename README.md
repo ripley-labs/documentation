@@ -31,22 +31,18 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 * [See our Microservices article selection](StudyMaterial/Microservices.md)
 
-## Programming Languages
+## Programming
 
 * [See our Programming article selection](StudyMaterial/Programming.md)
-
 
 ### Javascript
 * [See our Javascript article selection](StudyMaterial/Javascript.md)
 
 ### Python
-* [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
-
+* [See our Python article selection](StudyMaterial/Python.md)
 
 ## Testing
-
 * [See our Testing article selection](StudyMaterial/Testing.md)
-
 
 # Talks
 
