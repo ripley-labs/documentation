@@ -11,3 +11,7 @@
 - [Test Driven Development in React with Jest and Enzyme](https://medium.com/@rossbulat/test-driven-development-in-react-with-jest-and-enzyme-2a6cf2cc3071)
 
 - [How to correctly mock Moment.js/dates in Jest](https://medium.com/free-code-camp/how-to-correctly-mock-moment-js-dates-in-jest-25fa2528ca11)
+
+- [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+
+- [Your Test Should Verify If The Code Solves The Problem, Not If It Runs 🔊](https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e)
