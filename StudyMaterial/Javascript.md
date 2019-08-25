@@ -63,6 +63,7 @@
 - Building a React Components Library
   - [Part 1 — The library itself and local development setup](https://medium.com/better-programming/building-a-react-components-library-f5a390d5973d)
   - [Part 2 — Testing the components](https://medium.com/better-programming/building-a-react-components-library-6a05c2bca538)
+- [Structuring projects and naming components in React](https://medium.com/hackernoon/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 
 ### Typescript
 

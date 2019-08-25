@@ -15,3 +15,5 @@
 - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 - [Your Test Should Verify If The Code Solves The Problem, Not If It Runs 🔊](https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e)
+
+- [RIP Test Driven Development - Or are we just thinking about it wrong? The core philosophy behind TDD](https://medium.com/better-programming/rip-tdd-or-are-we-just-thinking-about-it-wrong-32ef36b9c5)
