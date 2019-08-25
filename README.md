@@ -14,7 +14,7 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 ## Agile
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 * More articles about: [Agile software development](StudyMaterial/Agile.md)
-* More Articles about: [Software Engineering](StudyMaterial/SoftwareEngineering.md)
+* More articles about: [Software Engineering](StudyMaterial/SoftwareEngineering.md)
 
 ## Algoritmhs
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
@@ -23,7 +23,7 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 * [See our DevOps article selection](StudyMaterial/APIs.md)
 
-## Databases
+## Databases
 
 * [See our Databases article selection](StudyMaterial/Databases.md)
 
