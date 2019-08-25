@@ -5,6 +5,7 @@
 ## Blogs
 
 - [Daily JS](https://medium.com/dailyjs)
+- [IT Next](https://itnext.io/)
 
 ## Articles
 
@@ -51,7 +52,9 @@
 - [On Node Framework Popularity](https://hueniverse.com/on-node-framework-popularity-355fbde5cbe4)
 - [How to Compile Node.js Code Using Bytenode?](https://medium.com/hackernoon/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
 
-#### Use of large resources
+#### NodeJS: Low level
+
+- [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
 
 - [Writing memory efficient software applications in Node.js](https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f)
 

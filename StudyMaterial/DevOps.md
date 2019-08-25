@@ -25,3 +25,4 @@
 ## AWS Lambda
 
 - [Best Practices for AWS Lambda Container Reuse](https://medium.com/capital-one-tech/best-practices-for-aws-lambda-container-reuse-6ec45c74b67e)
+- [Lambda optimization tip — enable HTTP keep-alive](https://medium.com/predict/lambda-optimization-tip-enable-http-keep-alive-ef7aa7880554)
