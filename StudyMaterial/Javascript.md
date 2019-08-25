@@ -1,12 +1,16 @@
 # Javascript
 
 - [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
-- [Handling Multiple JavaScript Promises Even if Some Fail](http://adampaxton.com/handling-multiple-javascript-promises-even-if-some-fail/)
-- [How to build and publis ES6 NPM modules today with babel](https://github.com/bookercodes/articles/blob/master/how-to-build-and-publish-es6-npm-modules-today-with-babel.md)
-- [Javascript ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
-- [Node.js ECMAScript compatibility tables](https://node.green/) | [Node.js ECMAScript compatibility tables](https://github.com/williamkapke/node-compat-table)
 - [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 - [An Intro to Javascript for Experienced Programmers Who Could Use a Strong Dose of Fundamentals](https://medium.com/better-programming/an-intro-to-javascript-for-experienced-programmers-who-could-use-a-strong-dose-of-fundamentals-31535030616b)
+- [Javascript Linting and Formatting with ESLint, Prettier, and Airbnb](https://medium.com/@joshuacrass/javascript-linting-and-formatting-with-eslint-prettier-and-airbnb-30eb746db862)
+- [Dot notation vs Bracket notation](https://medium.com/dailyjs/dot-notation-vs-bracket-notation-eedea5fa8572)
+- [How to optimize your JavaScript apps using Loops](https://medium.com/free-code-camp/how-to-optimize-your-javascript-apps-using-loops-d5eade9ba89f)
+- [Speed Up JavaScript Array Processing](https://itnext.io/speed-up-javascript-array-processing-8d601c57bb0d)
+- [Cool Javascript 9: Named arguments — Functions that get and return Objects](https://medium.com/@afontcu/cool-javascript-9-named-arguments-functions-that-get-and-return-objects-337b6f8cfa07)
+- [Let’s explore objects in JavaScript](https://medium.com/@cristiansalcescu/lets-explore-objects-in-javascript-4a4ad76af798)
+- [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
+- [What JavaScript Developers Can Learn from C++](https://medium.com/@bretcameron/what-javascript-developers-can-learn-from-c-3cdb93ab8658)
 
 ## Error handling
 - [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
@@ -14,8 +18,14 @@
 - [Handling errors with async/await and promises](https://medium.com/@vcarl/handling-errors-with-async-await-and-promises-cd2fea534f08)
 
 ## EcmaScript 6
+- [Node.js ECMAScript compatibility tables](https://node.green/) | [Node.js ECMAScript compatibility tables](https://github.com/williamkapke/node-compat-table)
+- [Handling Multiple JavaScript Promises Even if Some Fail](http://adampaxton.com/handling-multiple-javascript-promises-even-if-some-fail/)
+- [How to build and publis ES6 NPM modules today with babel](https://github.com/bookercodes/articles/blob/master/how-to-build-and-publish-es6-npm-modules-today-with-babel.md)
+- [Javascript ES6 and Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - [Avoiding Babel’s Production Bloat](https://medium.com/@WebReflection/avoiding-babels-production-bloat-d53eea2e1cbf)
 - [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
+- [JavaScript: async/await with forEach()](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404)
+- [Different ways to achieve encapsulation in JavaScript(ES6)](https://itnext.io/different-ways-to-achieve-encapsulation-in-javascript-es6-7cb938e83f2d)
 
 ## Functional JS
 
@@ -31,8 +41,15 @@
 - [How To Organize Express Controllers For Large Codebases](https://medium.com/free-code-camp/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 - [Enforcing a single web socket connection per user with Node.js, Socket.IO, and Redis](https://medium.com/hackernoon/enforcing-a-single-web-socket-connection-per-user-with-node-js-socket-io-and-redis-65f9eb57f66a)
 - [How to use events in Node.js the right way](https://medium.com/free-code-camp/using-events-in-node-js-the-right-way-fc50c060f23b)
+- [On Node Framework Popularity](https://hueniverse.com/on-node-framework-popularity-355fbde5cbe4)
+- [How to Compile Node.js Code Using Bytenode?](https://medium.com/hackernoon/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
 
-# React
+# Frontend
+
+- [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [The Cost Of JavaScript In 2019](https://v8.dev/blog/cost-of-javascript-2019)
+
+## React
 
 - [React Lifecycle Methods- how and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
 - [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
@@ -41,4 +58,4 @@
 
 - [How to Write Node.js Applications in Typescript](https://medium.com/@freek_mencke/how-to-write-node-js-applications-in-typescript-a54af696f66)
 - [Setup Express with TypeScript in 3 Easy Steps](https://levelup.gitconnected.com/setup-express-with-typescript-in-3-easy-steps-484772062e01)
-- []
+- [Setting up a Full-Stack TypeScript Application: featuring Express and React](https://levelup.gitconnected.com/setting-up-a-full-stack-typescript-application-featuring-express-and-react-ccfe07f2ea47)

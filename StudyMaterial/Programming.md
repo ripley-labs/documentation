@@ -5,6 +5,7 @@
 - [Implementing Quicksort in JavaScript](https://medium.com/predict/implementing-quicksort-in-javascript-1874569ffaea)
 - [My Favorite Linear-time Sorting Algorithm](https://medium.com/free-code-camp/my-favorite-linear-time-sorting-algorithm-f82f88b5daa1)
 - [Binary data structures: an intro to trees and heaps in JavaScript](https://medium.com/free-code-camp/binary-data-structures-an-intro-to-trees-and-heaps-in-javascript-962ab536cb42)
+- [Merge Sort Algorithm in JavaScript](https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060)
 
 # Code
 
