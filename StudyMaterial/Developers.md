@@ -10,6 +10,10 @@
 - [How to Write Good Code Under Pressure](https://medium.com/swlh/how-to-write-good-code-under-pressure-5f795ec7f6ec)
 - [How to Become a Better Developer - Actionable steps to better yourself and your career](https://blog.bitsrc.io/how-to-become-a-better-developer-8d97abd9668e)
 
+## Agile
+
+- [How To Be a Good Agile Developer](https://medium.com/better-programming/how-to-be-a-good-agile-developer-6eda2436ce3d)
+
 ## Lifestyle
 
 - [How Fitness Transformed Me into a Better Web Developer](https://medium.com/better-programming/how-fitness-transformed-me-into-a-better-web-developer-ac51a2b08cb4)

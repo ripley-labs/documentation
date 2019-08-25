@@ -21,7 +21,7 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 ## APIs
 
-* [See our DevOps article selection](StudyMaterial/APIs.md)
+* [See our APIs article selection](StudyMaterial/APIs.md)
 
 ## Databases
 

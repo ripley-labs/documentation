@@ -1,14 +1,20 @@
 # Agile
 
 - [Common Agile Mistakes](https://itnext.io/common-agile-mistakes-36fe51b6217f)
+- [How Agile Fails in Practice](https://medium.com/@sredmond/how-agile-fails-in-practice-91b74e209a7)
 - [11 Things You Should Know About Scrum And Agile](https://medium.com/swlh/11-things-you-should-know-about-scrum-and-agile-8332e753eb1b)
 
 # Stories
 
 - [Why user stories are important to developers](https://medium.com/distinctionuk/why-user-stories-are-important-9e3d87981fd7)
-- (The Fundamentals of User Stories and Product Backlogs)[https://medium.com/swlh/user-stories-and-the-product-backlog-in-scrum-c87d36df4b96]
+- [The Fundamentals of User Stories and Product Backlogs](https://medium.com/swlh/user-stories-and-the-product-backlog-in-scrum-c87d36df4b96)
 
 # SCRUM
+
+- [The “Perfect” sprint length](https://medium.com/@daniel.leivas/the-perfect-sprint-length-8d314a13e57d)
+
+## Events
+- [Why your Daily Scrums suck (part 1)](https://medium.com/@morgler/why-your-daily-scrums-suck-part-1-f77a5a38ceac)
 
 ## Roles
 

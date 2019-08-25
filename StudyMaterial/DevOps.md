@@ -1,5 +1,7 @@
 # DevOps
 
+- [Going From IT to DevOps](https://medium.com/better-programming/going-from-it-to-devops-996192520331)
+
 # Chaos Engineering
 
 - [PRINCIPLES OF CHAOS ENGINEERING](https://principlesofchaos.org/)
@@ -19,6 +21,7 @@
 - [Kubernetes on AWS: Setup and Lessons Learned](https://medium.com/swlh/kubernetes-on-aws-setup-and-lessons-learned-93f8322bc13a)
 - [Starting local Kubernetes using kind and Docker](https://itnext.io/starting-local-kubernetes-using-kind-and-docker-c6089acfc1c0)
 - [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)
+- [Deploying apps on multiple Kubernetes clusters with Helm](https://medium.com/dailymotion/deploying-apps-on-multiple-kubernetes-clusters-with-helm-19ee2b06179e)
 
 # Serverless
 

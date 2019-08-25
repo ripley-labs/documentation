@@ -1,6 +1,7 @@
 # Culture
 
 * [I Accidentally Built A Brogrammer Culture. Now We’re Undoing It](https://medium.com/fast-company/i-accidentally-built-a-brogrammer-culture-now-were-undoing-it-7d595822d079)
+- [How Microservices Architecture Impacted the Culture of Software Development](https://medium.com/better-programming/how-microservices-architecture-impacted-the-culture-of-software-development-6bba363ecdf1)
 
 * [Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 

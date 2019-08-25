@@ -6,6 +6,7 @@
 
 - [Daily JS](https://medium.com/dailyjs)
 - [IT Next](https://itnext.io/)
+- [freeCodeCamp Developer News](https://www.freecodecamp.org/news/)
 
 ## Articles
 
@@ -38,6 +39,7 @@
 
 ### Functional JS
 
+- [An Introduction to Functional Programming Style in JavaScript](https://medium.com/free-code-camp/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
 - [JavaScript without “this” looks like a better functional programming language](https://medium.com/@cristiansalcescu/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086)
 - [Functional Programming Principles in Javascript](https://medium.com/free-code-camp/functional-programming-principles-in-javascript-1b8fc6c3563f)
 - [An introduction to Functional JavaScript](https://medium.com/@cristiansalcescu/an-introduction-to-functional-javascript-e8dab63bb51d)

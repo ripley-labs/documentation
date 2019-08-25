@@ -17,3 +17,5 @@
 - [Your Test Should Verify If The Code Solves The Problem, Not If It Runs 🔊](https://medium.com/@fagnerbrack/the-test-should-verify-if-the-code-solves-the-problem-not-if-it-runs-afea37a3a6e)
 
 - [RIP Test Driven Development - Or are we just thinking about it wrong? The core philosophy behind TDD](https://medium.com/better-programming/rip-tdd-or-are-we-just-thinking-about-it-wrong-32ef36b9c5)
+
+- [When to Write Jest Snapshot Tests - Where to start and knowing when to use them](https://medium.com/javascript-in-plain-english/should-i-be-writing-snapshot-tests-47da13a62085)
