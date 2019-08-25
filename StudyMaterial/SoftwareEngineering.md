@@ -4,6 +4,10 @@
 
 * [Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 
+## Developers
+
+See our recommendations for [Developers](Developers.md).
+
 # Methodology
 
 * [The Problem You Solve Is More Important Than The Code You Write 🔊](https://levelup.gitconnected.com/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6)

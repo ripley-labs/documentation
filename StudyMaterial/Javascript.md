@@ -1,8 +1,11 @@
 # Javascript
 
+- [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
+
 ## Blogs
 
 - [Daily JS](https://medium.com/dailyjs)
+- [IT Next](https://itnext.io/)
 
 ## Articles
 
@@ -42,14 +45,27 @@
 
 ### NodeJS
 
-- [Writing memory efficient software applications in Node.js](https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f)
-- [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
 - [Creating a RESTful Web API with Node.js and Express.js from scratch](https://medium.com/@metehansenol/creating-a-restful-web-api-with-node-js-and-express-js-from-scratch-9ba6e21d58b9)
 - [How To Organize Express Controllers For Large Codebases](https://medium.com/free-code-camp/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 - [Enforcing a single web socket connection per user with Node.js, Socket.IO, and Redis](https://medium.com/hackernoon/enforcing-a-single-web-socket-connection-per-user-with-node-js-socket-io-and-redis-65f9eb57f66a)
 - [How to use events in Node.js the right way](https://medium.com/free-code-camp/using-events-in-node-js-the-right-way-fc50c060f23b)
 - [On Node Framework Popularity](https://hueniverse.com/on-node-framework-popularity-355fbde5cbe4)
 - [How to Compile Node.js Code Using Bytenode?](https://medium.com/hackernoon/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
+
+#### NodeJS: Low level
+
+- [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
+
+- [Writing memory efficient software applications in Node.js](https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f)
+
+- Large files reading
+  - [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
+  - [Streams For the Win: A Performance Comparison of Node.js Methods for Reading Large Datasets (Pt 2)](https://itnext.io/streams-for-the-win-a-performance-comparison-of-nodejs-methods-for-reading-large-datasets-pt-2-bcfa732fa40e)
+
+#### Reactive Applications
+
+- [Using MongoDB as realtime DB with nodeJS](https://blog.usejournal.com/using-mongodb-as-realtime-db-with-nodejs-c6f52c266750)
+
 
 ### Frontend
 
@@ -63,6 +79,9 @@
 - Building a React Components Library
   - [Part 1 — The library itself and local development setup](https://medium.com/better-programming/building-a-react-components-library-f5a390d5973d)
   - [Part 2 — Testing the components](https://medium.com/better-programming/building-a-react-components-library-6a05c2bca538)
+- [Structuring projects and naming components in React](https://medium.com/hackernoon/structuring-projects-and-naming-components-in-react-1261b6e18d76)
+- [Under the hood of React’s hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
+- [Rethinking Separation of Concerns with React](https://itnext.io/rethinking-separation-of-concerns-with-react-7e5de1b5c0f7)
 
 ### Typescript
 
