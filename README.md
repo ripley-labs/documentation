@@ -17,7 +17,7 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 * More articles about: [Software Engineering](StudyMaterial/SoftwareEngineering.md)
 
 ## Algoritmhs
-* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+* [See our Programming article selection, Algorithms section](StudyMaterial/Programming.md#algorithms)
 
 ## APIs
 
