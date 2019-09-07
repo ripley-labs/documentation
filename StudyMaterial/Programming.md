@@ -30,7 +30,8 @@
 
 - [How To Create Meaningful Names In Code](https://medium.com/better-programming/how-to-create-meaningful-names-in-code-20d7476537d4)
 - [Effectively Naming Software Thingies](https://medium.com/@rabinovichsagi/effectively-naming-software-thingies-fcea9d78a699)
-- [How to make your code better with intention-revealing function names](https://www.facebook.com/ariel.m.diaz/posts/10219236971013624)
+- [How to make your code better with intention-revealing function names](https://medium.com/@cristiansalcescu/how-to-make-your-code-better-with-intention-revealing-function-names-6c8b5271693e)
+- [Coding With Intention](https://medium.com/@kennethreilly/coding-with-intention-d1d61f5add20)
 
 ## TDD: Test Driven Development
 
@@ -53,8 +54,14 @@
 
 # Paradigms
 
+## Functional Programing
 - [Can You Avoid Functional Programming as a Policy?](https://medium.com/javascript-scene/can-you-avoid-functional-programming-as-a-policy-7bd0570bcfb2)
+- [What Is a Pure Function? - Pure functions in programming and their benefits](https://medium.com/better-programming/what-is-a-pure-function-3b4af9352f6f)
+
+## Object Orient Programming
+- []()
 
 # Optimization
 
 - [Lagrange multipliers with pictures and code](https://towardsdatascience.com/lagrange-multipliers-with-pictures-and-code-ace8018dac5e)
+- [Three Questions to Ask When Figuring Out Software Development Bottlenecks](https://medium.com/better-programming/three-questions-to-ask-when-figuring-out-software-development-bottlenecks-636b793a24f7)

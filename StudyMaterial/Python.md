@@ -7,3 +7,7 @@
 - [Jupyter Superpower — Interactive Visualization Combo with Python](https://towardsdatascience.com/jupyter-superpower-interactive-visualization-combo-with-python-ffc0adb37b7b)
 - [Why Should We Use NumPy?](https://medium.com/fintechexplained/why-should-we-use-numpy-c14a4fb03ee9)
 - [Building Your First Website With Flask — Part 1](https://medium.com/better-programming/building-your-first-website-with-flask-part-1-903a8b44e806)
+
+## Testing
+
+- [See our Testing in Python section](Testing.md#python)

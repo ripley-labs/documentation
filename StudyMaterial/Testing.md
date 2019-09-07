@@ -18,7 +18,7 @@
 
 - [When to Write Jest Snapshot Tests - Where to start and knowing when to use them](https://medium.com/javascript-in-plain-english/should-i-be-writing-snapshot-tests-47da13a62085)
 
-# JS
+# Javascript
 
 - [A Beginner’s Guide to Jest Testing](https://medium.com/@alialhaddad/a-beginners-guide-to-jest-testing-858d10198032)
 - [How to correctly mock Moment.js/dates in Jest](https://medium.com/free-code-camp/how-to-correctly-mock-moment-js-dates-in-jest-25fa2528ca11)
@@ -31,3 +31,8 @@
 
 - [Using Go Interfaces for Testable Code](https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea)
 - [Testing database interactions using Go](https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449)
+
+
+# Python
+
+- [Unit Testing Python Code with Pytest](https://itnext.io/unit-testing-python-code-with-pytest-f876930ec7a8)

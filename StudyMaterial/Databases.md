@@ -1,3 +1,8 @@
+# Design
+
+- [Good Database Design Starts Here - Rules to follow when you start a new database project: usage, model selection, process and testing.
+](https://towardsdatascience.com/good-database-design-starts-here-15ebcaf5dd80)
+
 # Relational
 
 

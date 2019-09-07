@@ -6,6 +6,7 @@
 
 - [Top 12 Things That Destroy Developer Productivity](https://medium.com/hackernoon/top-12-things-that-destroy-developer-productivity-2ddf0abc190)
 
+- [4 Software Principles That Will Radically Transform Your Business](https://medium.com/swlh/4-useful-software-principles-that-will-improve-your-business-300823ff3db2)
 
 ## Developers
 
@@ -36,3 +37,5 @@ See our recommendations for [Developers](Developers.md).
 - [How To Use Technical Debt In Your Favor 🔊](https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68)
 
 - [How to stop wasting engineering time on technical debt](https://medium.com/understanding-tech-debt/how-to-stop-wasting-engineering-time-on-technical-debt-9404e5907273)
+
+- [What to Do When You’ve Inherited Dysfunctional Code](https://medium.com/better-programming/what-to-do-when-youve-inherited-dysfunctional-code-e09822656b3a)

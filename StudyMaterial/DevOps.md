@@ -14,6 +14,7 @@
 - [Docker Tips : about /var/run/docker.sock](https://medium.com/better-programming/about-var-run-docker-sock-3bfd276e12fd)
 - [A New, Better Way to Automatically Update Docker Containers](https://medium.com/better-programming/automatically-update-docker-containers-f2ccc79f4313)
 - [How to build a smaller Docker image](https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a)
+- [How to Version Your Docker Images](https://medium.com/better-programming/how-to-version-your-docker-images-1d5c577ebf54)
 
 # Kubernetes
 

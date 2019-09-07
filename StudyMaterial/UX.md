@@ -3,6 +3,7 @@
 - [When You Need to Show a Button’s Loading State](https://medium.com/@uxmovement/when-you-need-to-show-a-buttons-loading-state-41fc4d5e3c65)
 - [11 data table design guidelines](https://uxdesign.cc/11-table-design-guidelines-adb27ac01c8e)
 - [When Cancel Buttons Should Not Say “Cancel”](https://medium.com/@uxmovement/when-cancel-buttons-should-not-say-cancel-d6af16115a02)
+- [How white space killed an enterprise app (and why data density matters)](https://uxdesign.cc/how-white-space-killed-an-enterprise-app-and-why-data-density-matters-b3afad6a5f2a)
 
 # Mobile
 

@@ -1,6 +1,5 @@
 # Javascript
 
-- [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
 
 ## Blogs
 
@@ -10,15 +9,23 @@
 
 ## Articles
 
+### Basics
+
+- [How JavaScript Works](https://medium.com/better-programming/how-javascript-works-1706b9b66c4d)
+- [Variable and Function Hoisting in JavaScript](https://medium.com/@e.be.walk/variable-and-function-hoisting-in-javascript-e0c8ce1d31a5)
+- [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
+
 - [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 - [An Intro to Javascript for Experienced Programmers Who Could Use a Strong Dose of Fundamentals](https://medium.com/better-programming/an-intro-to-javascript-for-experienced-programmers-who-could-use-a-strong-dose-of-fundamentals-31535030616b)
+- [Let’s explore objects in JavaScript](https://medium.com/@cristiansalcescu/lets-explore-objects-in-javascript-4a4ad76af798)
+
+## Advanced
 - [Javascript Linting and Formatting with ESLint, Prettier, and Airbnb](https://medium.com/@joshuacrass/javascript-linting-and-formatting-with-eslint-prettier-and-airbnb-30eb746db862)
 - [Dot notation vs Bracket notation](https://medium.com/dailyjs/dot-notation-vs-bracket-notation-eedea5fa8572)
 - [How to optimize your JavaScript apps using Loops](https://medium.com/free-code-camp/how-to-optimize-your-javascript-apps-using-loops-d5eade9ba89f)
 - [Speed Up JavaScript Array Processing](https://itnext.io/speed-up-javascript-array-processing-8d601c57bb0d)
 - [Cool Javascript 9: Named arguments — Functions that get and return Objects](https://medium.com/@afontcu/cool-javascript-9-named-arguments-functions-that-get-and-return-objects-337b6f8cfa07)
-- [Let’s explore objects in JavaScript](https://medium.com/@cristiansalcescu/lets-explore-objects-in-javascript-4a4ad76af798)
 - [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
 - [What JavaScript Developers Can Learn from C++](https://medium.com/@bretcameron/what-javascript-developers-can-learn-from-c-3cdb93ab8658)
 
@@ -26,6 +33,7 @@
 - [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 - [Better error handling in JavaScript](https://medium.com/@iaincollins/error-handling-in-javascript-a6172ccdf9af)
 - [Handling errors with async/await and promises](https://medium.com/@vcarl/handling-errors-with-async-await-and-promises-cd2fea534f08)
+- [How To Handle Errors in Asynchronous Javascript Code (when working with Callbacks)](https://medium.com/@1sherlynn/how-to-handle-errors-in-asynchronous-javascript-code-when-working-with-callbacks-dcd32bca4b6b)
 
 ### EcmaScript 6
 - [Node.js ECMAScript compatibility tables](https://node.green/) | [Node.js ECMAScript compatibility tables](https://github.com/williamkapke/node-compat-table)
@@ -75,6 +83,7 @@
 
 - [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - [The Cost Of JavaScript In 2019](https://v8.dev/blog/cost-of-javascript-2019)
+- [How you can improve your workflow using the JavaScript console](https://medium.com/free-code-camp/how-you-can-improve-your-workflow-using-the-javascript-console-bdd7823a9472)
 
 #### React
 
@@ -93,3 +102,7 @@
 - [How to Write Node.js Applications in Typescript](https://medium.com/@freek_mencke/how-to-write-node-js-applications-in-typescript-a54af696f66)
 - [Setup Express with TypeScript in 3 Easy Steps](https://levelup.gitconnected.com/setup-express-with-typescript-in-3-easy-steps-484772062e01)
 - [Setting up a Full-Stack TypeScript Application: featuring Express and React](https://levelup.gitconnected.com/setting-up-a-full-stack-typescript-application-featuring-express-and-react-ccfe07f2ea47)
+
+## Testing
+
+- [See our Testing in Javascript section](Testing.md#javascript)
