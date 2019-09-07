@@ -16,6 +16,7 @@
 - [How To Scale Your REST API](https://blog.usejournal.com/more-principles-of-rest-ee0b614641bf)
 - [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 - [Stop Calling Your APIs Microservices](https://stoplight.io/blog/stop-calling-your-apis-microservices-e165a80eba9d)
+- [The Monolith and the Microservice](https://medium.com/@benbos67/the-monolith-and-the-microservice-63a951dbb822)
 
 ### Services
 - [Kafka: All you need to know](https://medium.com/hacking-talent/kafka-all-you-need-to-know-8c7251b49ad0)

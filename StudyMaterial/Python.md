@@ -1,5 +1,6 @@
 # Python
 
+- [Python: 7 Important Reasons Why You Should Use Python](https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b)
 - [Hidden features of Python](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 - [Did You Know Pandas Can Do So Much?](https://medium.com/fintechexplained/did-you-know-pandas-can-do-so-much-f65dc7db3051)
 - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)

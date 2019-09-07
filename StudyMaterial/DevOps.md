@@ -13,6 +13,7 @@
 - [Yet another reason your Docker containers may be slow on EC2: clock_gettime, gettimeofday and seccomp](https://medium.com/appian-engineering/yet-another-reason-your-docker-containers-may-be-slow-on-ec2-clock-gettime-gettimeofday-and-9d92f6892048)
 - [Docker Tips : about /var/run/docker.sock](https://medium.com/better-programming/about-var-run-docker-sock-3bfd276e12fd)
 - [A New, Better Way to Automatically Update Docker Containers](https://medium.com/better-programming/automatically-update-docker-containers-f2ccc79f4313)
+- [How to build a smaller Docker image](https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a)
 
 # Kubernetes
 
@@ -22,8 +23,10 @@
 - [Starting local Kubernetes using kind and Docker](https://itnext.io/starting-local-kubernetes-using-kind-and-docker-c6089acfc1c0)
 - [Drastically Improve your Kubernetes Deployments with Helm](https://medium.com/@aevitas/drastically-improve-your-kubernetes-deployments-with-helm-5323e7f11ef8)
 - [Deploying apps on multiple Kubernetes clusters with Helm](https://medium.com/dailymotion/deploying-apps-on-multiple-kubernetes-clusters-with-helm-19ee2b06179e)
-
+- [A Closer Look at Etcd: The Brain of a Kubernetes Cluster](https://medium.com/better-programming/a-closer-look-at-etcd-the-brain-of-a-kubernetes-cluster-788c8ea759a5)
 # Serverless
+
+- [How We Moved Towards Serverless Architecture](https://blog.lftechnology.com/moving-towards-serverless-b7ef8937edd8)
 
 ## AWS Lambda
 

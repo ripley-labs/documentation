@@ -36,6 +36,7 @@
 - [Why don’t we use var anymore?](https://blog.usejournal.com/awesome-javascript-no-more-var-working-title-999428999994)
 - [JavaScript: async/await with forEach()](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404)
 - [Different ways to achieve encapsulation in JavaScript(ES6)](https://itnext.io/different-ways-to-achieve-encapsulation-in-javascript-es6-7cb938e83f2d)
+- [Things You Didn’t Know You Could Do With The Console in JavaScript](https://medium.com/the-non-traditional-developer/things-you-didnt-know-you-could-do-with-the-console-in-javascript-6eed68ccf534)
 
 ### Functional JS
 
@@ -53,6 +54,7 @@
 - [How to use events in Node.js the right way](https://medium.com/free-code-camp/using-events-in-node-js-the-right-way-fc50c060f23b)
 - [On Node Framework Popularity](https://hueniverse.com/on-node-framework-popularity-355fbde5cbe4)
 - [How to Compile Node.js Code Using Bytenode?](https://medium.com/hackernoon/how-to-compile-node-js-code-using-bytenode-11dcba856fa9)
+- [NodeJS : single threaded, non-blocking, async, have callback queue and event loop.](https://medium.com/@shubhamkamboj_30683/nodejs-single-threaded-non-blocking-async-have-callback-queue-and-event-loop-7f0051ca322a)
 
 #### NodeJS: Low level
 
@@ -84,6 +86,7 @@
 - [Structuring projects and naming components in React](https://medium.com/hackernoon/structuring-projects-and-naming-components-in-react-1261b6e18d76)
 - [Under the hood of React’s hooks system](https://medium.com/the-guild/under-the-hood-of-reacts-hooks-system-eb59638c9dba)
 - [Rethinking Separation of Concerns with React](https://itnext.io/rethinking-separation-of-concerns-with-react-7e5de1b5c0f7)
+- [A Guide to Service Workers in React.js](https://levelup.gitconnected.com/a-guide-to-service-workers-in-react-js-82aec1d6a22d)
 
 ### Typescript
 

@@ -1,6 +1,8 @@
 # Developer
 
 - [Roadmaps to becoming a Modern Developer – roadmap.sh](https://roadmap.sh/devops)
+- [10 Things Every Developer Should Learn](https://medium.com/better-programming/10-things-every-developer-should-learn-72697ed5d94a)
+- [38 Actions and Insights to Become a Better Software Architect](https://medium.com/hackernoon/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 
 ## Articles
 

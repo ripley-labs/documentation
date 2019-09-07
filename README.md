@@ -27,6 +27,10 @@ See our [basic development skills requirements and suggestions](StudyMaterial/Ba
 
 * [See our Databases article selection](StudyMaterial/Databases.md)
 
+## Data Science
+
+* [See our Data Science article selection](StudyMaterial/DataScience.md)
+
 ## DevOps: Cloud, Docker, Kubernetes
 
 * [See our DevOps article selection](StudyMaterial/DevOps.md)

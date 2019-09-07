@@ -3,6 +3,8 @@
 - [Common Agile Mistakes](https://itnext.io/common-agile-mistakes-36fe51b6217f)
 - [How Agile Fails in Practice](https://medium.com/@sredmond/how-agile-fails-in-practice-91b74e209a7)
 - [11 Things You Should Know About Scrum And Agile](https://medium.com/swlh/11-things-you-should-know-about-scrum-and-agile-8332e753eb1b)
+- [Staying Agile: Running a Sprint](https://medium.com/swlh/staying-agile-running-a-sprint-ad4b3d9bb5f)
+- [Get (really) Agile with your next software project](https://medium.com/enfuse-io/get-really-agile-with-your-next-software-project-763c93e0a610)
 
 # Stories
 
