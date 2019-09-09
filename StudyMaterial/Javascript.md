@@ -14,11 +14,11 @@
 - [How JavaScript Works](https://medium.com/better-programming/how-javascript-works-1706b9b66c4d)
 - [Variable and Function Hoisting in JavaScript](https://medium.com/@e.be.walk/variable-and-function-hoisting-in-javascript-e0c8ce1d31a5)
 - [A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
-
 - [Aprender Javascript en 2016](http://www.etnassoft.com/2017/01/03/aprender-javascript-en-2016/) / [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [10 things to learn on the way to becoming a JavaScript Master](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
 - [An Intro to Javascript for Experienced Programmers Who Could Use a Strong Dose of Fundamentals](https://medium.com/better-programming/an-intro-to-javascript-for-experienced-programmers-who-could-use-a-strong-dose-of-fundamentals-31535030616b)
 - [Let’s explore objects in JavaScript](https://medium.com/@cristiansalcescu/lets-explore-objects-in-javascript-4a4ad76af798)
+- [8 habits you should avoid when developing with Javascript](https://medium.com/javascript-in-plain-english/8-habits-you-should-avoid-when-developing-with-javascript-a39a5ca2fae6)
 
 ## Advanced
 - [Javascript Linting and Formatting with ESLint, Prettier, and Airbnb](https://medium.com/@joshuacrass/javascript-linting-and-formatting-with-eslint-prettier-and-airbnb-30eb746db862)
